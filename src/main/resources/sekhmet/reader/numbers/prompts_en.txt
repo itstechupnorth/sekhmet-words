@@ -1,0 +1,93 @@
+#
+# Robert Burrell Donkin has associated this work 
+# with the CC0 http://creativecommons.org/publicdomain/zero/1.0/
+# 
+# To the extent possible under law,
+# Robert Burrell Donkin has waived all copyright and related or neighboring
+# rights to this work and placed it in the public domain.
+#
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+twenty-one
+twenty-two
+twenty-three
+thirty
+forty
+fifty
+sixty
+seventy
+eighty
+ninety
+hundred
+one hundred
+two hundred
+five hundred and six
+thousand
+three thousand
+four thousand and seven
+million
+eight million
+billion
+nine billion
+trillion
+half
+quarter
+once
+twice
+thrice
+mono
+dual
+triple
+quadruple
+first
+second
+third
+forth
+fifth
+sixth
+seventh
+eighth
+ninth
+tenth
+eleventh
+12th
+13th
+14th
+15th
+16th
+17th
+18th
+19th
+20th
+30th
+40th
+50th
+60th
+70th
+80th
+90th
+hundredth
+thousandth
+millionth
+billionth
+trillionth
+zero
+nought

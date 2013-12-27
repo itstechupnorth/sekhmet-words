@@ -1,0 +1,156 @@
+#
+# Robert Burrell Donkin has associated this work 
+# with the CC0 http://creativecommons.org/publicdomain/zero/1.0/
+# 
+# To the extent possible under law,
+# Robert Burrell Donkin has waived all copyright and related or neighboring
+# rights to this work and placed it in the public domain.
+#
+US
+USA
+United States
+America
+American
+Atlantic
+Pacific
+Gulf
+Rocky
+Mississippi
+Canada
+Mexico
+Hawaii
+Florida
+Texas
+Alaska
+California
+Bahamas
+Bering Sea
+Cuba
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District Of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New York
+Carolina
+Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+Wisconsin
+Wyoming
+Puerto Rico
+Virgin
+Guam
+Birmingham
+Montgomery
+Anchorage
+Phoenix
+Little Rock
+Sacramento
+San Francisco
+Los Angeles
+Denver
+Hartford
+Dover
+Jacksonville
+Miami
+Tallahassee
+Honolulu
+Boise
+Springfield
+Chicago
+Indianapolis
+Des Moines
+Wichita
+Louisville
+Baton Rouge
+New Orleans
+Augusta
+Portland
+Baltimore
+Annapolis
+Boston
+Detroit
+Minneapolis
+Saint Paul
+Jackson
+Helena
+Lincoln
+Omaha
+Las Vegas
+Concord
+Manchester
+Trenton
+Newark
+Santa Fe
+Albuquerque
+Albany
+Raleigh
+Charlotte
+Bismark
+Fargo
+Columbus
+Cleveland
+Cincinnati
+Salem
+Portland
+Harrisburg
+Philadelphia
+Providence
+Columbia
+Pierre
+Sioux Falls
+Nashville
+Memphis
+Austin
+Dallas
+Houston
+Salt Lake City
+Burlington
+Montpelier
+Richmond
+Olympia
+Seattle
+Charleston
+Madison
+Milwaukee
+Cheyenne
+Appalachian
+Plains
+Lakes
+Coast
+Basin 

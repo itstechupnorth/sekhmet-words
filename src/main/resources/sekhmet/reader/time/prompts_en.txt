@@ -1,0 +1,63 @@
+#
+# Robert Burrell Donkin has associated this work 
+# with the CC0 http://creativecommons.org/publicdomain/zero/1.0/
+# 
+# To the extent possible under law,
+# Robert Burrell Donkin has waived all copyright and related or neighboring
+# rights to this work and placed it in the public domain.
+#
+one o'clock
+two o'clock
+three o'clock
+am
+pm
+hours
+hour
+minute
+minutes
+second
+seconds
+millisecond
+milliseconds
+nanosecond
+nanoseconds
+day
+days
+month
+months
+year
+years
+century
+centuries
+decade
+decades
+millenium
+millenia
+morning
+afternoon
+evening
+night
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+noon
+midnight
+leap year
+date
+time

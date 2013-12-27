@@ -1,0 +1,19 @@
+# Time in seconds between prompts [ number ]
+delay.prompt = 3
+# Time in seconds after premable [ number ]
+delay.preamble = 20
+#delay.preamble = 2
+# License for prompt text [ CC0 | GPL ]
+license = CC0
+# Name of the author [ text ]
+author = Robert Burrell Donkin
+# Duplicate entries should be removed [ yes | no ]
+remove_duplicates = yes
+# Description [ text ]
+description= Greek Alphabet
+# Number of words to choose [ number ]
+#repeat=0
+repeat=50
+# Whether selection should be random [ random | seq ] 
+selection=random
+

@@ -1,0 +1,32 @@
+#
+# Robert Burrell Donkin has associated this work 
+# with the CC0 http://creativecommons.org/publicdomain/zero/1.0/
+# 
+# To the extent possible under law,
+# Robert Burrell Donkin has waived all copyright and related or neighboring
+# rights to this work and placed it in the public domain.
+#
+alpha
+beta
+gamma
+delta
+epsilon
+zeta
+eta
+theta
+iota
+kappa
+lambda
+nu
+mu
+xi
+omicron
+pi
+rho
+sigma
+tau
+upsilon
+phi
+chi
+psi
+omega
